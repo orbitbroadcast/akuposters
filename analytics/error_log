@@ -1,0 +1,22 @@
+[20-Nov-2020 20:32:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/orbit/public_html/analytics/analytics.php on line 50
+[20-Nov-2020 20:33:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/orbit/public_html/analytics/analytics.php on line 50
+[20-Nov-2020 20:35:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/orbit/public_html/analytics/analytics.php on line 50
+[20-Nov-2020 21:37:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/orbit/public_html/analytics/analytics.php on line 50
+[20-Nov-2020 21:40:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/orbit/public_html/analytics/analytics.php on line 50
+[20-Nov-2020 21:40:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/orbit/public_html/analytics/analytics.php on line 50
+[21-Nov-2020 09:25:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/orbit/public_html/obt/inc/functions.php on line 155
+[21-Nov-2020 09:25:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/orbit/public_html/obt/inc/functions.php on line 155
+[12-Dec-2020 10:34:16 UTC] PHP Warning:  include(../obt/inc/top.php): failed to open stream: No such file or directory in /home/akuposters/public_html/analytics/analytics.php on line 8
+[12-Dec-2020 10:34:16 UTC] PHP Warning:  include(../obt/inc/top.php): failed to open stream: No such file or directory in /home/akuposters/public_html/analytics/analytics.php on line 8
+[12-Dec-2020 10:34:16 UTC] PHP Warning:  include(): Failed opening '../obt/inc/top.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/akuposters/public_html/analytics/analytics.php on line 8
+[12-Dec-2020 10:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/akuposters/public_html/analytics/analytics.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/akuposters/public_html/analytics/analytics.php on line 43
+[12-Dec-2020 10:34:25 UTC] PHP Warning:  include(../obt/inc/top.php): failed to open stream: No such file or directory in /home/akuposters/public_html/analytics/analytics.php on line 8
+[12-Dec-2020 10:34:25 UTC] PHP Warning:  include(../obt/inc/top.php): failed to open stream: No such file or directory in /home/akuposters/public_html/analytics/analytics.php on line 8
+[12-Dec-2020 10:34:25 UTC] PHP Warning:  include(): Failed opening '../obt/inc/top.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/akuposters/public_html/analytics/analytics.php on line 8
+[12-Dec-2020 10:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/akuposters/public_html/analytics/analytics.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/akuposters/public_html/analytics/analytics.php on line 43

@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^akuposters\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.akuposters\.com$
+RewriteRule ^/?$ "https\:\/\/akuposters\.com\/index\.php\?t\=1607638107\-765052265" [R=301,L]
+

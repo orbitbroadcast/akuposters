@@ -1,0 +1,8 @@
+[15-Nov-2020 04:30:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 10
+[15-Nov-2020 04:30:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 13
+[15-Nov-2020 04:31:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 10
+[15-Nov-2020 04:31:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 13
+[15-Nov-2020 04:31:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 10
+[15-Nov-2020 04:31:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 13
+[15-Nov-2020 04:33:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 10
+[15-Nov-2020 04:33:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/orbit/public_html/admin/inc/eventdropdown.php on line 13

@@ -1,0 +1,96 @@
+/****************************************/
+/*Author:Zia Haider                     */
+/*Date:21st Nov, 2020 04:30 PM          */
+/****************************************/
+
+.user-page-hit{
+    background: #fff;
+    width: 100%!important;
+    margin: 15px;
+    border: 1px solid #999;
+    box-shadow: #cae6f9 3px 3px;
+    height:300px;
+    max-height:300px;
+    overflow-y:scroll
+}
+.ip-location{
+    background: #fff;
+    width: 100%!important;
+    margin: 15px;
+    border: 1px solid #999;
+    box-shadow: #cae6f9 3px 3px;
+    height:300px;
+    max-height:300px;
+    overflow-y:scroll
+}
+.user-page-hit table {
+    width:100%;    
+}
+.user-page-hit table tr:nth-child(even){
+    background:#1a2226
+}
+.user-page-hit table tr:nth-child(odd){
+    background:#222d32
+}
+.user-page-hit table th{
+    background:#468dbc;
+    color:#fff;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.user-page-hit table td{   
+    color:#468dbc;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+/* width */
+.user-page-hit::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+.user-page-hit::-webkit-scrollbar-track {
+  background: #b6c3bf;
+}
+
+/* Handle */
+.user-page-hit::-webkit-scrollbar-thumb {
+  background: #236d9e;
+}
+
+/* Handle on hover */
+.user-page-hit::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.cards{
+  width:100%;
+  list-style:none;
+  
+}
+
+.cards li{
+  width:200px;
+  height:100px;
+  display:inline-block;
+  border:1px solid #468dbc;
+  border-bottom:1px solid #e74354;
+  background:#fff;    
+}
+
+.cards li #title{
+  background:rgb(255, 71, 87);
+  color:#fff;
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align:center;
+  font-size:12px;
+  position:relative;
+}
+.cards li #value{
+  height:80px;
+ font-size:50px;
+ text-align:center;
+ color:#8f9192
+}

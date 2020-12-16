@@ -1,0 +1,1 @@
+<iframe frameborder="0" style="height: 100%; overflow:scroll; width: 100%; margin:0 auto;" allow="camera *; microphone *;" src="<?=$_GET['url']?>" ></iframe>
